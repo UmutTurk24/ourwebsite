@@ -1,18 +1,12 @@
 h1{
-color: rgb(19, 179, 171);
+color: rgb(0, 20, 37);
 text-align: center;
-font-family: 'Vollkorn', serif;
 }
 
-p {color:rgb(7, 104, 99);
+p {color:rgb(150, 216, 216);
     font-size: 20px;
-    font-family: 'Vollkorn', serif;
 }
 
-div {
-    color:rgb(18, 134, 129);
-    font-size: 18px;
-}
 
 .Ellie-img{
     width: 300px;
@@ -23,3 +17,4 @@ div {
     width: 300px;
     height: 400px;
  }
+
