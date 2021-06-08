@@ -1,0 +1,42 @@
+body{
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    margin-right: 70px;
+    background-image: linear-gradient( aquamarine, rgba(91, 91, 253, 0.342));
+}
+
+.pasa_text{
+    
+    font-size: medium;
+    color: blueviolet;
+}
+
+.kebab-pic{
+    float:right;
+    width: 250px;
+    height: 170px;
+}
+
+.pic2{
+    float:right;
+    width: 250px;
+    height: 170px;
+}
+.mypic2{
+    float:right;
+    width: 250px;
+    height: 170px;
+}
+
+.hobbies_list{
+    float:left;
+}
+
+.hobbies{
+    font-size: 20px;
+}
+
+.pasa_repeat{
+    margin-left: 40px;
+}
