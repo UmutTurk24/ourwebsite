@@ -3,6 +3,9 @@ color: rgb(19, 179, 171);
 text-align: center;
 }
 
+p {color:rgb(7, 104, 99);
+    font-size: 20px;
+}
 
 .Ellie-img{
     width: 200px;
